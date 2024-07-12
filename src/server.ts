@@ -18,8 +18,42 @@ const teams = [
     name: "Red Bull Racing",
     base: "Milton Keynes, United Kingdom",
   },
+  {
+    id: 4,
+    name: "Ferrari",
+    base: "Maranello, Italy",
+  },
+  {
+    id: 5,
+    name: "Aston Martin",
+    base: "Silverstone, United Kingdom",
+  },
+  {
+    id: 6,
+    name: "Alpine",
+    base: "Enstone, United Kingdom",
+  },
+  {
+    id: 7,
+    name: "AlphaTauri",
+    base: "Faenza, Italy",
+  },
+  {
+    id: 8,
+    name: "Alfa Romeo",
+    base: "Hinwil, Switzerland",
+  },
+  {
+    id: 9,
+    name: "Williams",
+    base: "Grove, United Kingdom",
+  },
+  {
+    id: 10,
+    name: "Haas",
+    base: "Kannapolis, United States",
+  },
 ];
-
 const drivers = [
   {
     id: 1,
@@ -28,13 +62,99 @@ const drivers = [
   },
   {
     id: 2,
-    name: "Lewis Hamilton",
-    team: "Ferrai",
+    name: "Sergio Perez",
+    team: "Red Bull Racing",
   },
   {
     id: 3,
+    name: "Lewis Hamilton",
+    team: "Mercedes",
+  },
+  {
+    id: 4,
+    name: "George Russell",
+    team: "Mercedes",
+  },
+  {
+    id: 5,
     name: "Lando Norris",
     team: "McLaren",
+  },
+
+  {
+    id: 6,
+    name: "Oscar Piastri",
+    team: "McLaren",
+  },
+  {
+    id: 7,
+    name: "Charles Leclerc",
+    team: "Ferrari",
+  },
+  {
+    id: 8,
+    name: "Carlos Sainz",
+    team: "Ferrari",
+  },
+  {
+    id: 9,
+    name: "Fernando Alonso",
+    team: "Aston Martin",
+  },
+  {
+    id: 10,
+    name: "Lance Stroll",
+    team: "Aston Martin",
+  },
+  {
+    id: 11,
+    name: "Esteban Ocon",
+    team: "Alpine",
+  },
+  {
+    id: 12,
+    name: "Pierre Gasly",
+    team: "Alpine",
+  },
+  {
+    id: 13,
+    name: "Yuki Tsunoda",
+    team: "AlphaTauri",
+  },
+  {
+    id: 14,
+    name: "Daniel Ricciardo",
+    team: "AlphaTauri",
+  },
+  {
+    id: 15,
+    name: "Valtteri Bottas",
+    team: "Alfa Romeo",
+  },
+  {
+    id: 16,
+    name: "Zhou Guanyu",
+    team: "Alfa Romeo",
+  },
+  {
+    id: 17,
+    name: "Alexander Albon",
+    team: "Williams",
+  },
+  {
+    id: 18,
+    name: "Logan Sargeant",
+    team: "Williams",
+  },
+  {
+    id: 19,
+    name: "Kevin Magnussen",
+    team: "Haas",
+  },
+  {
+    id: 20,
+    name: "Nico Hulkenberg",
+    team: "Haas",
   },
 ];
 
